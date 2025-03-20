@@ -1,7 +1,7 @@
  
 # Abdullahi Ahmed Osman
 
-**Software Engineer** | [Your LinkedIn Profile URL (Optional)] | [Your GitHub Profile URL] | [Your Email Address] | [Your Phone Number (Optional)] | [Your City, Country]
+**Software Engineer**  | (https://github.com/reyr3v4cud83guy) | 
 
 ## Summary
 
@@ -34,7 +34,7 @@ Highly motivated and results-oriented Software Engineer with a passion for build
 * Implemented secure payment processing via Stripe API.
 * Deployed the application on AWS using EC2, RDS, and S3.
 * Demonstrates proficiency in full-stack development, API design, database management, and cloud deployment.
-* [GitHub Repository:](https://github.com/expressjs/express) (This is just an example of a popular backend technology. Replace with your actual project repository if publicly available. If not, remove the link.)(Replace the link, with your own project link, if you have one)
+* [GitHub Repository:](https://github.com/expressjs/express) 
 
 **Project 2: Real-Time Chat Application (Full-Stack)**
 
@@ -45,7 +45,7 @@ Highly motivated and results-oriented Software Engineer with a passion for build
 * Implemented user authentication and private messaging features.
 * Deployed the application using Heroku.
 * Demonstrates proficiency in real-time application development, WebSocket communication, and NoSQL databases.
-* [GitHub Repository:](https://github.com/socketio/socket.io) (This is an example of a popular real time library. replace with your own project link, if you have one) (Replace the link, with your own project link, if you have one)
+* [GitHub Repository:](https://github.com/socketio/socket.io)  
 
 **Project 3: Task Management Application (Full-Stack)**
 
@@ -56,8 +56,9 @@ Highly motivated and results-oriented Software Engineer with a passion for build
 * Implemented user roles and permissions for task assignment and access control.
 * Implemented a Kanban board style visual representation for task progress.
 * Demonstrates proficiency in full-stack development, API design, and database management.
-* [GitHub Repository:](https://github.com/django/django) (This is an example of a popular backend technology. replace with your own project link, if you have one) (Replace the link, with your own project link, if you have one)
+* [GitHub Repository:](https://github.com/django/django)
 
+  
 ## Experience
 
 **[Job Title], [Company Name], [City, Country]** | [Start Date] - [End Date]
